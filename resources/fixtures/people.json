@@ -1392,5 +1392,22 @@
     },
     "model": "resources.people",
     "pk": 83
+},
+{
+    "fields": {
+        "edited": "2018-0701T23:30:00.000Z",
+        "name": "Kylo Ren",
+        "created": "2018-0701T23:30:00.000Z",
+        "gender": "male",
+        "skin_color": "light",
+        "hair_color": "black",
+        "height": "189",
+        "eye_color": "brown",
+        "mass": "89",
+        "homeworld": 32,
+        "birth_year": "5ABY"
+    },
+    "model": "resources.people",
+    "pk": 84
 }
 ]
